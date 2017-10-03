@@ -8,6 +8,6 @@ phases:
       files:
           - index.HTML
           - favicon.ico
-          - DarrylBrownResume_2016.pdf
+          - DarrylBrownResume2016.pdf
           - styles/*
           - images/*
