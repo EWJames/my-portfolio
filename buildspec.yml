@@ -1,13 +1,13 @@
 version: 0.1
 
 phases:
-    build:
-      commands:
-        -- echo Nothing to do yet
-  artifacts:
-      files:
-          -- index.HTML
-          -- favicon.ico
-          -- DarrylBrownResume2016.pdf
-          -- styles/*
-          -- images/*
+  build:
+    commands:
+      - echo Nothing to do yet
+artifacts:
+  files:
+    - index.HTML
+    - favicon.ico
+    - DarrylBrownResume2016.pdf
+    - styles/*
+    - images/*
