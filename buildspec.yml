@@ -1,0 +1,13 @@
+version: 0.1
+
+phases:
+    build:
+      commands:
+        - echo Nothing to do yet
+  artifacts:
+      files:
+          - index.HTML
+          - favicon.ico
+          - 'Darryl Brown Resume 2016.pdf'
+          - styles/*
+          - images/*
